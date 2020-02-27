@@ -1,0 +1,3 @@
+# IceCube Realtime Twitter Bot
+
+Listens for GCN notices for IceCube alert events, downloads event views, posts to twitter
